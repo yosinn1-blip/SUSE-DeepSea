@@ -39,7 +39,7 @@ Gives you a detailed report about what the anticipated osd layout.
 
 ## salt-run disks.deploy
 
-Will actually issue the commands generated from disks.d_v_commands.
+Will actually issue the commands generated from disks.c_v_commands.
 
 
 """
